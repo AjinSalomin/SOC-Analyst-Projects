@@ -1,2 +1,7 @@
 # Wazuh SIEM Lab
-Security monitoring, endpoint log analysis, file integrity monitoring, and threat detection.
+
+## Status
+Planned
+
+## About
+This project will focus on using Wazuh for security monitoring, endpoint protection, log analysis, and threat detection.
