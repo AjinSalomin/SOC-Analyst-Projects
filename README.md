@@ -15,7 +15,7 @@ Tool: Splunk
 * Detecting suspicious activities
 * Creating dashboards and alerts
 
-Project Folder: splunk-siem-lab/
+[Project Folder](./Splunk-SIEM-Lab)
 
 ### 2. Wazuh SIEM Lab
 Tool: Wazuh
@@ -25,7 +25,7 @@ Tool: Wazuh
 * Security alert investigation
 * Threat detection and analysis
 
-Project Folder: wazuh-siem-lab/
+[Project Folder](./Wazuh-SIEM-Lab)
 
 ### 3. Microsoft Sentinel Lab
 Tool: Microsoft Sentinel
@@ -36,7 +36,7 @@ Tool: Microsoft Sentinel
 * Analytics rule configuration
 * Incident investigation and threat detection
 
-Project Folder: microsoft-sentinel-lab/
+[Project Folder](./Microsoft-Sentinel-Lab)
 
 
 
