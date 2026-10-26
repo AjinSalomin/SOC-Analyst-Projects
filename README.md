@@ -17,5 +17,26 @@ Tool: Splunk
 
 Project Folder: splunk-siem-lab/
 
-## 2. Wazuh SIEM Lab
+### 2. Wazuh SIEM Lab
+Tool: Wazuh
+* Security monitoring and log analysis
+* Endpoint monitoring
+* File Integrity Monitoring (FIM)
+* Security alert investigation
+* Threat detection and analysis
+
+Project Folder: wazuh-siem-lab/
+
+### 3. Microsoft Sentinel Lab
+Tool: Microsoft Sentinel
+
+* Cloud-based security monitoring
+* Log analysis using Kusto Query Language (KQL)
+* Security analytics and alert investigation
+* Analytics rule configuration
+* Incident investigation and threat detection
+
+Project Folder: microsoft-sentinel-lab/
+
+
 
