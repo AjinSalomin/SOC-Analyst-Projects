@@ -4,7 +4,7 @@
 In Progress
 
 ## About
-This project focuses on learning Splunk for security monitoring, log analysis, threat detection, and SOC investigations.
+This project focuses on learning Splunk for security monitoring, log analysis, threat detection, and SOC investigations
 
 ## Objectives
 * Learn SIEM fundamentals
